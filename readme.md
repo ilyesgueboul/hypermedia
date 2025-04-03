@@ -6,7 +6,7 @@ Application permettant d'indexer les vidéos d'une chaîne Youtube spécifique e
 ## Technologies utilisées
 - [Node.js](https://nodejs.org/)
 - [React](https://react.dev/)
-- [SQLite](https://www.sqlite.org/) *(prévu en semaine 2)*
+- [SQLite](https://www.sqlite.org/) *(prévu)*
 - [API YouTube Data v3](https://developers.google.com/youtube/v3/docs?hl=fr) *(quota de 10 000 unités/jour)*
 - [Google Cloud Console](https://console.cloud.google.com/) pour créer le projet et générer la clé API
 
